@@ -1,0 +1,765 @@
+{
+    "name": "Malek Yousfi",
+    "email": "yousfi.malek17@gmail.com",
+    "phone": "+216 25 196 664",
+    "university": [
+        "higher institute of business administration"
+    ],
+    "degree": [
+        "Bachelor's degree in Computer Science",
+        "Bachelor of Computer Science"
+    ],
+    "designition": [
+        "it engineer",
+        "devops"
+    ],
+    "Companies worked at": [],
+    "total_exp": 0,
+    "full_matches": [
+        {
+            "skill_id": "KS1220H6CP1BQGH9STNK",
+            "doc_node_value": "cloud computing",
+            "score": 1,
+            "doc_node_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "skill_id": "KS1220H6CP1BQGH9STNK",
+            "doc_node_value": "cloud computing",
+            "score": 1,
+            "doc_node_id": [
+                19,
+                20
+            ]
+        },
+        {
+            "skill_id": "KS1218B62M9QRBY8WRSK",
+            "doc_node_value": "business administration",
+            "score": 1,
+            "doc_node_id": [
+                64,
+                65
+            ]
+        },
+        {
+            "skill_id": "KS1220H6CP1BQGH9STNK",
+            "doc_node_value": "cloud computing",
+            "score": 1,
+            "doc_node_id": [
+                69,
+                70
+            ]
+        },
+        {
+            "skill_id": "KS120026VL50QFWT2281",
+            "doc_node_value": "asp net",
+            "score": 1,
+            "doc_node_id": [
+                127,
+                128
+            ]
+        },
+        {
+            "skill_id": "KS1219N6Z3XQ19V0HSKR",
+            "doc_node_value": "c #",
+            "score": 1,
+            "doc_node_id": [
+                132,
+                133
+            ]
+        },
+        {
+            "skill_id": "KS1205G5ZKS8ZZWVPM9Y",
+            "doc_node_value": "active directory",
+            "score": 1,
+            "doc_node_id": [
+                145,
+                146
+            ]
+        },
+        {
+            "skill_id": "KS126HY6YLTB9R7XJC4Z",
+            "doc_node_value": "microsoft office",
+            "score": 1,
+            "doc_node_id": [
+                152,
+                153
+            ]
+        },
+        {
+            "skill_id": "KS1226Y6DNDT05G7FJ4J",
+            "doc_node_value": "computer science",
+            "score": 1,
+            "doc_node_id": [
+                172,
+                173
+            ]
+        },
+        {
+            "skill_id": "KS1218B62M9QRBY8WRSK",
+            "doc_node_value": "business administration",
+            "score": 1,
+            "doc_node_id": [
+                180,
+                181
+            ]
+        },
+        {
+            "skill_id": "KS1226Y6DNDT05G7FJ4J",
+            "doc_node_value": "computer science",
+            "score": 1,
+            "doc_node_id": [
+                188,
+                189
+            ]
+        },
+        {
+            "skill_id": "KSYLZ9S7RU1C4UZH6ILD",
+            "doc_node_value": "dynamic website",
+            "score": 1,
+            "doc_node_id": [
+                269,
+                270
+            ]
+        },
+        {
+            "skill_id": "KS120026VL50QFWT2281",
+            "doc_node_value": "asp net",
+            "score": 1,
+            "doc_node_id": [
+                271,
+                272
+            ]
+        },
+        {
+            "skill_id": "KS1219N6Z3XQ19V0HSKR",
+            "doc_node_value": "c #",
+            "score": 1,
+            "doc_node_id": [
+                273,
+                274
+            ]
+        },
+        {
+            "skill_id": "KS440H45X67RF6B7BF2N",
+            "doc_node_value": "server administration",
+            "score": 1,
+            "doc_node_id": [
+                289,
+                290
+            ]
+        },
+        {
+            "skill_id": "KS122QH61M1MNJ0BP4XZ",
+            "doc_node_value": "database administration",
+            "score": 1,
+            "doc_node_id": [
+                293,
+                294
+            ]
+        },
+        {
+            "skill_id": "KS1200X6V3937RSF8VVM",
+            "doc_node_value": "first aid",
+            "score": 1,
+            "doc_node_id": [
+                312,
+                313
+            ]
+        },
+        {
+            "skill_id": "KS7G7K873Z87GNGYHQKB",
+            "score": 1,
+            "doc_node_value": "com",
+            "doc_node_id": [
+                60
+            ]
+        },
+        {
+            "skill_id": "KS7G7K873Z87GNGYHQKB",
+            "score": 1,
+            "doc_node_value": "com",
+            "doc_node_id": [
+                93
+            ]
+        },
+        {
+            "skill_id": "KS1200578T5QCYT0Z98G",
+            "score": 1,
+            "doc_node_value": "HTML",
+            "doc_node_id": [
+                154
+            ]
+        },
+        {
+            "skill_id": "KS121F45VPV8C9W3QFYH",
+            "score": 1,
+            "doc_node_value": "CSS",
+            "doc_node_id": [
+                155
+            ]
+        }
+    ],
+    "ngram_scored": [
+        {
+            "skill_id": "ES76F4C57A88877D6D64",
+            "doc_node_id": [
+                9
+            ],
+            "doc_node_value": "professional",
+            "type": "lowSurf",
+            "score": 0.5233343839645386,
+            "len": 1
+        },
+        {
+            "skill_id": "KS122VV71XNN7Y03XJNN",
+            "doc_node_id": [
+                12,
+                13
+            ],
+            "doc_node_value": "systems administration",
+            "type": "lowSurf",
+            "score": 2.0,
+            "len": 2
+        },
+        {
+            "skill_id": "KS7G6TD5ZFPB365HT8TH",
+            "doc_node_id": [
+                13,
+                14
+            ],
+            "doc_node_value": "administration security",
+            "type": "oneToken",
+            "score": 0.5666666666666668,
+            "len": 2
+        },
+        {
+            "skill_id": "KS7G6TD5ZFPB365HT8TH",
+            "doc_node_id": [
+                13,
+                14
+            ],
+            "doc_node_value": "administration security",
+            "type": "oneToken",
+            "score": 0.5666666666666668,
+            "len": 2
+        },
+        {
+            "skill_id": "ES76F4C57A88877D6D64",
+            "doc_node_id": [
+                61
+            ],
+            "doc_node_value": "professional",
+            "type": "lowSurf",
+            "score": 0.5233343839645386,
+            "len": 1
+        },
+        {
+            "skill_id": "KS120SS664Q5HF0WHTLY",
+            "doc_node_id": [
+                66,
+                67
+            ],
+            "doc_node_value": "systems security",
+            "type": "oneToken",
+            "score": 0.5666666666666668,
+            "len": 2
+        },
+        {
+            "skill_id": "ES49C374BFB0904D777E",
+            "doc_node_id": [
+                72,
+                73
+            ],
+            "doc_node_value": "cloud computing",
+            "type": "oneToken",
+            "score": 0.5666666666666668,
+            "len": 2
+        },
+        {
+            "skill_id": "KS124DQ6JX0NX9DBFDM8",
+            "doc_node_id": [
+                83
+            ],
+            "doc_node_value": "r",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS7G88W63NTDRGKQW46L",
+            "doc_node_id": [
+                91
+            ],
+            "doc_node_value": "www",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "ESFAC51458ADB50CA541",
+            "doc_node_id": [
+                99,
+                101
+            ],
+            "doc_node_value": "cloud azure",
+            "type": "oneToken",
+            "score": 0.6333333333333333,
+            "len": 2
+        },
+        {
+            "skill_id": "KS127C1660W6F87D6YQF",
+            "doc_node_id": [
+                103
+            ],
+            "doc_node_value": "openshift",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS122W96T2T9J5PZ0VMP",
+            "doc_node_id": [
+                104
+            ],
+            "doc_node_value": "devops",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KSIWWZAII4AP33SDVZ2H",
+            "doc_node_id": [
+                105
+            ],
+            "doc_node_value": "git",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KSFX6JBNDFS27G78LHSA",
+            "doc_node_id": [
+                106,
+                107
+            ],
+            "doc_node_value": "gitlab gitlab",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 2
+        },
+        {
+            "skill_id": "KSYO45M6II0E15Y5RP67",
+            "doc_node_id": [
+                109
+            ],
+            "doc_node_value": "jenkins",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS122VW78Q67XR4C3ZDW",
+            "doc_node_id": [
+                110,
+                111
+            ],
+            "doc_node_value": "operating systems",
+            "type": "lowSurf",
+            "score": 2.0,
+            "len": 2
+        },
+        {
+            "skill_id": "KS121CF62WFJ19GK02H7",
+            "doc_node_id": [
+                112
+            ],
+            "doc_node_value": "ubuntu",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS121KB68PWHRPJCJKQJ",
+            "doc_node_id": [
+                113
+            ],
+            "doc_node_value": "centos",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS441V276PPDCWTPLVCZ",
+            "doc_node_id": [
+                116
+            ],
+            "doc_node_value": "virtualization",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS121DV68XQ3HX9FLNCW",
+            "doc_node_id": [
+                117
+            ],
+            "doc_node_value": "containerization",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS441V172NC4K6P5S6RN",
+            "doc_node_id": [
+                119
+            ],
+            "doc_node_value": "virtualbox",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KSYTBO65WCZ1G7DAIHTM",
+            "doc_node_id": [
+                120
+            ],
+            "doc_node_value": "proxmox",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KSY4WFI1S164RQUBSPCC",
+            "doc_node_id": [
+                122,
+                123
+            ],
+            "doc_node_value": "docker docker",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 2
+        },
+        {
+            "skill_id": "KS123CJ7656KLDB8MNRX",
+            "doc_node_id": [
+                125,
+                126
+            ],
+            "doc_node_value": "programming languages",
+            "type": "oneToken",
+            "score": 0.5666666666666668,
+            "len": 2
+        },
+        {
+            "skill_id": "KS1200C5XQWW78VQ5ZYL",
+            "doc_node_id": [
+                129
+            ],
+            "doc_node_value": "php",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS1200771D9CR9LB4MWW",
+            "doc_node_id": [
+                130
+            ],
+            "doc_node_value": "javascript",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS120076FGP5WGWYMP0F",
+            "doc_node_id": [
+                131
+            ],
+            "doc_node_value": "java",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS127F567D6W0VPKRSPS",
+            "doc_node_id": [
+                135,
+                137
+            ],
+            "doc_node_value": "oracle sql",
+            "type": "oneToken",
+            "score": 0.6333333333333333,
+            "len": 2
+        },
+        {
+            "skill_id": "ESE24D31B5AB7E958ABA",
+            "doc_node_id": [
+                134,
+                135
+            ],
+            "doc_node_value": "database oracle",
+            "type": "oneToken",
+            "score": 0.6,
+            "len": 2
+        },
+        {
+            "skill_id": "KS126QY605N7YVHFYCTW",
+            "doc_node_id": [
+                136
+            ],
+            "doc_node_value": "mysql",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS440W865GC4VRBW6LJP",
+            "doc_node_id": [
+                137
+            ],
+            "doc_node_value": "sql",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS125TB6YR6236RKM563",
+            "doc_node_id": [
+                138
+            ],
+            "doc_node_value": "postgresql",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KSALSL0U9E60WLJXI7B7",
+            "doc_node_id": [
+                140
+            ],
+            "doc_node_value": "grafana",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS2NA4WWH9Z98XXI5K2Y",
+            "doc_node_id": [
+                141
+            ],
+            "doc_node_value": "prometheus",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS1230679RLKJGSJXRF8",
+            "doc_node_id": [
+                142,
+                143
+            ],
+            "doc_node_value": "directory services",
+            "type": "lowSurf",
+            "score": 2.0,
+            "len": 2
+        },
+        {
+            "skill_id": "KS6ANCWDVK5TKDKHPESX",
+            "doc_node_id": [
+                144
+            ],
+            "doc_node_value": "ldap",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS1243T6WP2D89L9LQJD",
+            "doc_node_id": [
+                156
+            ],
+            "doc_node_value": "freenas",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS123K75YYK8VGH90NCS",
+            "doc_node_id": [
+                157,
+                158
+            ],
+            "doc_node_value": "languages english",
+            "type": "lowSurf",
+            "score": 2.0,
+            "len": 2
+        },
+        {
+            "skill_id": "KS1243976G466GV63ZBY",
+            "doc_node_id": [
+                159
+            ],
+            "doc_node_value": "french",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS120M16XCSQRBQ5ZH6D",
+            "doc_node_id": [
+                160
+            ],
+            "doc_node_value": "arab",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS1203C6N9B52QGB4H67",
+            "doc_node_id": [
+                164
+            ],
+            "doc_node_value": "research",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS440BJ6KNCLNVY4Q946",
+            "doc_node_id": [
+                165
+            ],
+            "doc_node_value": "read",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS123MP6KPNJF3GFZ5TS",
+            "doc_node_id": [
+                174
+            ],
+            "doc_node_value": "e",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS4426R6RWMFJJ8HC9RN",
+            "doc_node_id": [
+                207,
+                208
+            ],
+            "doc_node_value": "cloud platform",
+            "type": "oneToken",
+            "score": 0.5666666666666668,
+            "len": 2
+        },
+        {
+            "skill_id": "KS127C1660W6F87D6YQF",
+            "doc_node_id": [
+                209
+            ],
+            "doc_node_value": "openshift",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KSMQOXR20589Y8VYOB6U",
+            "doc_node_id": [
+                226
+            ],
+            "doc_node_value": "dockerfile",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KSFX6JBNDFS27G78LHSA",
+            "doc_node_id": [
+                233
+            ],
+            "doc_node_value": "gitlab",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS7G39G6G5M749ZW5DP0",
+            "doc_node_id": [
+                238
+            ],
+            "doc_node_value": "image",
+            "type": "lowSurf",
+            "score": 0.510378897190094,
+            "len": 1
+        },
+        {
+            "skill_id": "KS120SQ5W4Q57JMD2Y81",
+            "doc_node_id": [
+                243
+            ],
+            "doc_node_value": "automation",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS127C1660W6F87D6YQF",
+            "doc_node_id": [
+                251
+            ],
+            "doc_node_value": "openshift",
+            "type": "fullUni",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS1218W78FGVPVP2KXPX",
+            "doc_node_id": [
+                276
+            ],
+            "doc_node_value": "management",
+            "type": "lowSurf",
+            "score": 1.0,
+            "len": 1
+        },
+        {
+            "skill_id": "KS126K06YSWLGCMB6B0Y",
+            "doc_node_id": [
+                288,
+                289
+            ],
+            "doc_node_value": "windows server",
+            "type": "lowSurf",
+            "score": 2.0,
+            "len": 2
+        },
+        {
+            "skill_id": "KS126HR74RKXJJ1K6FQR",
+            "doc_node_id": [
+                296,
+                297
+            ],
+            "doc_node_value": "microsoft security",
+            "type": "oneToken",
+            "score": 0.6333333333333333,
+            "len": 2
+        },
+        {
+            "skill_id": "KS1220J6HKW77MYLLNC0",
+            "doc_node_id": [
+                304,
+                305
+            ],
+            "doc_node_value": "cloud security",
+            "type": "oneToken",
+            "score": 0.6,
+            "len": 2
+        }
+    ]
+}
